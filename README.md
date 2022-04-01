@@ -6,6 +6,4 @@
 pip install pywin32
 ···
 2.clone本项目到本地  
-···git
 
-···

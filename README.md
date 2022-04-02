@@ -19,7 +19,4 @@ git clone https://github.com/Quandong-Zhang/desktop-wallpaper-engine-new.git
 在win11下使用多桌面功能时请点击该按钮（点一下就好）
 
 ## 效果
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="imgs/2022-04-02-16-42-11.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+<iframe src="//player.bilibili.com/player.html?aid=980357603&bvid=BV1z44y1P725&cid=565459499&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

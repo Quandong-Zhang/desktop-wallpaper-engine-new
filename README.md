@@ -1,6 +1,9 @@
 # desktop-wallpaper-engine
 一个python实现的桌面视频动态壁纸引擎(基于win32api)
 ## 如何使用？
+### 使用打包好的二进制版本（不需要python环境）
+请前往release界面下载： https://github.com/Quandong-Zhang/desktop-wallpaper-engine-new/releases  
+### 使用源码运行
 1.安装依赖库  
 ```python
 pip install pywin32

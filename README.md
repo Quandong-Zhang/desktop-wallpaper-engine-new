@@ -19,4 +19,4 @@ git clone https://github.com/Quandong-Zhang/desktop-wallpaper-engine-new.git
 在win11下使用多桌面功能时请点击该按钮（点一下就好）
 
 ## 效果
-<iframe src="//player.bilibili.com/player.html?aid=980357603&bvid=BV1z44y1P725&cid=565459499&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://www.bilibili.com/video/BV1z44y1P725/

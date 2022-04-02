@@ -1,6 +1,10 @@
 # desktop-wallpaper-engine
 一个python实现的桌面视频动态壁纸引擎(基于win32api)
 ## 效果
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="imgs/2022-04-02-16-42-11.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
 ## 如何使用？
 1.安装依赖库  
 ```python

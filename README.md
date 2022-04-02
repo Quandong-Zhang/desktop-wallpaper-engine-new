@@ -9,7 +9,7 @@ pip install pywin32
 ```
 git clone https://github.com/Quandong-Zhang/desktop-wallpaper-engine-new.git
 ```
-3.运行main.py,在弹出的对话框中点击“启动壁纸”，并选择一个作为壁纸的视频文件。
+3.运行main.py,在弹出的对话框中点击“启动壁纸”，并选择一个作为壁纸的视频文件。  
 4.enjoy it!
 
 ## 关于win11多桌面兼容功能（会耗费较多性能）

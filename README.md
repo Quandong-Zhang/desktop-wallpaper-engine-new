@@ -1,9 +1,9 @@
 # desktop-wallpaper-engine
 一个python实现的桌面视频动态壁纸引擎(基于win32api)
 ## 效果
-<video id="video" controls="" preload="auto" >
-      <source id="mp4" src="mp4格式视频" type="imgs/2022-04-02-16-42-11.mp4">
-</videos>
+<video id="video" controls="" preload="none" >
+<source id="mp4" src="/imgs/2022-04-02-16-42-11.mp4" type="video/mp4">
+</video>
 ## 如何使用？
 1.安装依赖库  
 ```python

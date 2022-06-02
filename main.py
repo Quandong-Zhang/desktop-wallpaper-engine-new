@@ -38,14 +38,14 @@ def main():
 
     #time.sleep(.5)
     while True:
-        if lab.get_jb_id("wallpaper") is None:
+        if lab.get_jb_id("wallpaperce84aa7d-3cec-4ef8-b6fd-b3d76e56aa20") is None:
             time.sleep(.05)
         else:
-            pid = lab.get_jb_id("wallpaper")
+            pid = lab.get_jb_id("wallpaperce84aa7d-3cec-4ef8-b6fd-b3d76e56aa20")
             break
 
 
-    for handle in lab.get_jb_id("wallpaper"):
+    for handle in lab.get_jb_id("wallpaperce84aa7d-3cec-4ef8-b6fd-b3d76e56aa20"):
         lab.setson(handle)
 
     #protect = multiprocessing.Process(target=protectcallback)
